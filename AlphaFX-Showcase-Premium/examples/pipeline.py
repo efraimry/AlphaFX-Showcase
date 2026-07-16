@@ -1,0 +1,1 @@
+print({'pair':'EURUSD','signal':'BUY','confidence':0.72})
